@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scheduling-tasks.iml" filepath="$PROJECT_DIR$/scheduling-tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scheduling-tasks_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scheduling-tasks_main.iml" group="scheduling-tasks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scheduling-tasks_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scheduling-tasks_test.iml" group="scheduling-tasks" />
+    </modules>
+  </component>
+</project>
